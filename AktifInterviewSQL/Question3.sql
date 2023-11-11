@@ -1,0 +1,1 @@
+SELECT SUM(Amount) FROM Transactions WHERE UserID = 1 AND MONTH(TransactionDate) = MONTH(GETDATE()) AND YEAR(TransactionDate) = YEAR(GETDATE())

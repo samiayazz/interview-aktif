@@ -1,0 +1,14 @@
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\bin\Debug\net7.0\AktifInterview.exe
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\bin\Debug\net7.0\AktifInterview.deps.json
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\bin\Debug\net7.0\AktifInterview.runtimeconfig.json
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\bin\Debug\net7.0\AktifInterview.dll
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\bin\Debug\net7.0\AktifInterview.pdb
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.AssemblyInfoInputs.cache
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.AssemblyInfo.cs
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.csproj.CoreCompileInputs.cache
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.dll
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\refint\AktifInterview.dll
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.pdb
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\AktifInterview.genruntimeconfig.cache
+C:\Production\AktifElektroteknik\Interviews\AktifInterview\AktifInterview\obj\Debug\net7.0\ref\AktifInterview.dll

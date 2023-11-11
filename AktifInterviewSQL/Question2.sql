@@ -1,0 +1,1 @@
+SELECT * FROM Employees WHERE Salary > 5000 ORDER BY LastName ASC

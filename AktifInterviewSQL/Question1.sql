@@ -1,0 +1,6 @@
+CREATE TABLE Employees (
+  	EmployeeID INT IDENTITY(1,1) PRIMARY KEY,
+  	FirstName VARCHAR(255) NOT NULL,
+  	LastName VARCHAR(255) NOT NULL,
+  	Salary DECIMAL(16,2),
+)

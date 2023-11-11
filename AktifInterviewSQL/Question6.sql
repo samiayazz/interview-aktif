@@ -1,0 +1,9 @@
+/*
+CREATE TABLE Users (
+  UserID INT IDENTITY(1,1) PRIMARY KEY,
+  Name VARCHAR(250) NOT NULL,
+  Age INT NOT NULL
+  )
+*/
+
+SELECT avg(Age) FROM Users
